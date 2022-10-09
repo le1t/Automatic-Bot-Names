@@ -16,8 +16,13 @@
 2. Чтобы убрать в TAB`e слово БОТ на стороне клиента, нужно открыть файл по пути: __csgo__ -> __resource__ -> __csgo_russian.txt__ и удалить слово БОТ и BOT в кавычках в этих строках:
 
 >"SFUI_bot_controlled_by" "(%s1)"
->"SFUI_bot_decorated_name" "%s1"
->"SFUI_scoreboard_lbl_bot" ""
+
+"SFUI_bot_decorated_name" "%s1"
+
+"SFUI_scoreboard_lbl_bot" ""
+
+
+
 
 
 
