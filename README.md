@@ -21,8 +21,8 @@
 
 "SFUI_scoreboard_lbl_bot" ""
 
-Оригинальный плагин: [Automatic Bot Names by agrif] (https://forums.alliedmods.net/showthread.php?t=115486)
-Дополнительная информация: [Настройка] (http://gamma-level.com/teamfortress2/botnames)  
+Оригинальный плагин: [Automatic Bot Names by agrif](https://forums.alliedmods.net/showthread.php?t=115486)
+Дополнительная информация: [Настройка](http://gamma-level.com/teamfortress2/botnames)  
 
 Скомпилировано на SM v1.11.0.6911
 
