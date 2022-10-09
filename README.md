@@ -4,7 +4,7 @@
 
 Настройка конфига по пути: __cfg__ -> __sourcemod__ -> __Automatic_Bot_Names.txt__
 
-1360 имен использованы из ботов для CS 1.5 - 1.6 __Ping Of Death Bot [POD]__ и __Yet Another POD-Bot [YaPB]__
+1360 имен использованы из ботов для CS 1.5 - 1.6 __[Ping Of Death Bot [POD]](http://podbotmm.bots-united.com/doc_v3/index.html)__ и __[Yet Another POD-Bot [YaPB]](https://yapb.jeefo.net/)__ 
 
 ![](https://hlmod.ru/attachments/1234-png.102973/)
 
