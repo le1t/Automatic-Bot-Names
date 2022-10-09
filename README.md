@@ -24,8 +24,6 @@
 
 
 
-
-
 Оригинальный плагин: __[Automatic Bot Names by agrif](https://forums.alliedmods.net/showthread.php?t=115486)__
 
 Дополнительная информация: __[Настройка](http://gamma-level.com/teamfortress2/botnames)__  
