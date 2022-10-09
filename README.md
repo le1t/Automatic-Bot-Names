@@ -9,13 +9,15 @@
 ![](https://hlmod.ru/attachments/1234-png.102973/)
 
 Опционально:
-> > 1. В архив включен файл с 63000 именами для ботов.
+*1. В архив включен файл с 63000 именами для ботов.
 Располагается по пути addons -> sourcemod -> configs -> Опционально 63000 имен ботов -> botnames.txt .
 Этот файл нужно скопировать и заменить по пути addons -> sourcemod -> configs .
-> > 2. Чтобы убрать в TAB`e слово БОТ на стороне клиента, нужно открыть файл по пути: csgo -> resource -> csgo_russian.txt и удалить слово БОТ и BOT в кавычках в этих строках:
+*2. Чтобы убрать в TAB`e слово БОТ на стороне клиента, нужно открыть файл по пути: csgo -> resource -> csgo_russian.txt и удалить слово БОТ и BOT в кавычках в этих строках:
 "SFUI_bot_controlled_by" "(%s1)"
 "SFUI_bot_decorated_name" "%s1"
 "SFUI_scoreboard_lbl_bot" ""
+
+
 
 Оригинальный плагин: [Automatic Bot Names by agrif](https://forums.alliedmods.net/showthread.php?t=115486)
 
