@@ -6,7 +6,7 @@
 
 1360 имен использованы из ботов для CS 1.5 - 1.6 Ping Of Death Bot [POD] и Yet Another POD-Bot [YaPB]
 
-1234.png
+![](https://hlmod.ru/attachments/1234-png.102973/)
 
 Спойлер: Опционально:
 
