@@ -17,9 +17,9 @@
 
 >"SFUI_bot_controlled_by" "(%s1)"
 
-"SFUI_bot_decorated_name" "%s1"
+>"SFUI_bot_decorated_name" "%s1"
 
-"SFUI_scoreboard_lbl_bot" ""
+>"SFUI_scoreboard_lbl_bot" ""
 
 
 
